@@ -35,7 +35,7 @@ This application uses a neural network model to classify traffic signs. It is tr
 ### 2. Clone the Repository
 - Clone the project repository to your local machine:
     ```bash
-    git clone yourgit://github.com
+    git clone KanaJessica1://github.com
     ```
 
 ### 3. Set Up Virtual Environment (Optional)
